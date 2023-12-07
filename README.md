@@ -1,4 +1,4 @@
-# Final-Year-University-Project
+# Final Year University Project
 ## Overview
 My final year university project around collecting a dataset, importing it into Python, using Pandas to clean and manipulate the dataset, and plotting the results via Seaborn. The data collected was video game reviews on the top 5 rated games per year from 2000 to 2021, and for each, an arbitrary score was calculated from the innovation of each game in Story, and the innovation in Gameplay mechanics. Using these two scores, a final calculation could be made to determine how innovative a games' story was, and how it changes over time alongside innovations in gameplay. Marked Grade: 79/100.
 
