@@ -33,7 +33,7 @@ The goals of this project were to perform an in-depth analysis of the dataset th
 - Images included in the report alongside an excel file for the data
 
 ## Additonal Screenshots
-### Running the program for the first time
+### Running the program for the first time, full data plot
 ![image](https://github.com/Rayan-Arshed/Final-Year-University-Project/assets/95011650/3acfa418-4660-4678-b6b2-bf993cad8d16)
 
 ### Help Command
