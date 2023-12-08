@@ -31,3 +31,16 @@ The goals of this project were to perform an in-depth analysis of the dataset th
 - Python code file and Data Set as a .csv
 - Program.exe as a link here: https://drive.google.com/file/d/1EXaH07gaqqIu2EJwstcNcZJGSxXu2shX/view?usp=drive_link 
 - Images included in the report alongside an excel file for the data
+
+## Additonal Screenshots
+### Running the program for the first time
+![image](https://github.com/Rayan-Arshed/Final-Year-University-Project/assets/95011650/3acfa418-4660-4678-b6b2-bf993cad8d16)
+
+### Help Command
+![image](https://github.com/Rayan-Arshed/Final-Year-University-Project/assets/95011650/191dcc4b-93c1-437a-a1d4-694389762a43)
+
+### Outputting the dataframe
+![image](https://github.com/Rayan-Arshed/Final-Year-University-Project/assets/95011650/96ac6aaf-0c83-427f-a9a9-81b1b81aa90e)
+
+### Average data plot
+![image](https://github.com/Rayan-Arshed/Final-Year-University-Project/assets/95011650/3bd6d16c-c247-4886-96ce-248dbd314f73)
